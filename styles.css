@@ -64,5 +64,9 @@ nav {
 nav a{
     background-color: #E75D02;
     border: 2px solid white;
-    border-radius: 25px;
+    border-radius: 15px;
+font-size: 1.15em;
+}
+header h2 {
+    display: hidden;
 }
