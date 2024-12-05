@@ -49,3 +49,10 @@ html {
 body{
 font-family: 'Habibi';
 }
+header, footer{
+    width: 100%;
+
+}
+header{
+    background-color: #06A816;
+}
