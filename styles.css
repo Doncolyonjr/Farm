@@ -6,7 +6,7 @@
 :root {
     --Green: #06A816;
 --Orange: #E75D02;
---Black: #000;
+--Black: #0000;
 --White: #fff;
 
 }
@@ -63,12 +63,12 @@ ul {
 }
 nav a{
     background-color: #E75D02;
-    border: 2px solid white;
+    border: 1px solid white;
     border-radius: 5px;
 font-size: 1.15em;
 padding: 5px;
 text-decoration: none;
 }
 nav h2 {
-    display: hidden;
+    visibility: hidden;
 }
