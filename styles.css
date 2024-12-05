@@ -70,3 +70,6 @@ text-decoration: none;
 nav h2 {
     visibility: hidden;
 }
+h1,h2,h3{
+    font-size: 'Irish Grover';
+}
