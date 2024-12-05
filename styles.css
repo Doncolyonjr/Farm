@@ -69,6 +69,6 @@ font-size: 1.15em;
 padding: 5px;
 text-decoration: none;
 }
-header>h2 {
+nav h2 {
     display: hidden;
 }
