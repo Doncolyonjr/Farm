@@ -3,19 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Habibi&family=Irish+Grover&display=swap')
 /*-------------------- CSS REST ---------------------------------------------------*/
 /* -------------------- ROOT VARIABLES --------------------------------------- */
-:root {
-    --Green: #06A816;
---Orange: #E75D02;
---Black: #0000;
---White: #fff;
-
-}
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 /*-------------------- MEDIA QUERY (large) ------------------------------------*/
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
 
-/* latin-ext */
+/* latin-ext--------------- */
 @font-face {
     font-family: 'Habibi';
     font-style: normal;
@@ -110,50 +103,4 @@ h3{
 main{
 
 }
-#fruits-2{
-display: grid;
-grid-template-areas: 
-"a b c"
-"d e f"
-"g h i"
-"j k l"
-}
-#a{
-    grid-area: a;
-}
-#b{
-    grid-area: b;
-}
-#c{
-    grid-area: c;
-}
-#d{
-    grid-area: d;
-}
-#e{
-    grid-area: e;
-}
-#f{
-    grid-area: f;
-}
-#g{
-    grid-area: g;
-}
-#h{
-    grid-area: h;
-}
-#i{
-    grid-area: i;
-}
-#j{
-    grid-area: j;
-}
-#k{
-    grid-area: k;
-}
-#l{
-    grid-area: l;
-}
-#y{
-    grid-area: y;
-}
+
