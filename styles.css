@@ -75,7 +75,9 @@ color: black;
 border-color: #fff;
 border-width: 1px;
 width: 100px;
-padding:20px;
+}
+nav li{
+    display: inline-flex;
 }
 h1,h2,h3{
 
