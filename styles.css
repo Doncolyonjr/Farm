@@ -126,3 +126,10 @@ figcaption{
     color:#fff;
     padding:10px;
 }
+@media screen (max-width:1440px){
+    #fruit-2, #vegetables-2{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 20px;
+    }
+}
