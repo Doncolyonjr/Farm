@@ -106,7 +106,7 @@ h3{
     background-color:#06A816;
     color: #fff;
     font-family: 'habibi';
-   
+   display: flex;
 }
 footer{
     background-color: #fff;
