@@ -78,6 +78,7 @@ width: 300px;
 }
 nav li{
     display: inline-flex;
+    gap: 30px;
 }
 nav h2{
     visibility: hidden;
