@@ -152,6 +152,9 @@ width:100px;
                 display: grid;
                 grid-template-rows: 1fr 1fr;
                }
+               #contacts-and-hours{
+                display: grid;
+                grid-template-columns: 1fr 1fr}
 }
 @media screen and (min-width:1280px){
     #fruits-2, #vegetables-2{
@@ -168,12 +171,12 @@ width:100px;
                 top:-40px;}
                 #contacts-and-hours{
                     display: grid;
-                    grid-template-columns: 1fr 1fr 1fr 1fr;}
+                    grid-template-columns: 1fr 1fr}
 }
 @media screen and (min-width:1440px){
     #fruits-2, #vegetables-2{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
         column-gap: 20px;}
        h3{
         grid-column: 1/-1;
@@ -181,7 +184,7 @@ width:100px;
        }
        #contacts-and-hours{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
 
        }
        nav{
