@@ -172,7 +172,7 @@ width:100px;
         flex-direction: row;
         flex-wrap: ;
        }
-       h1>p{
+       h1 #info{
         display: flex;
         flex-direction: column;
        }
