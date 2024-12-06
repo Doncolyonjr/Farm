@@ -125,6 +125,7 @@ figcaption{
     font-family: 'habibi';
     color:#fff;
     padding:10px;
+    width: 50px;
 }
 @media screen (max-width:1440px){
     #fruit-2, #vegetables-2{
