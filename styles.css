@@ -173,7 +173,7 @@ width:100px;
 
        }
        nav{
-        position: relative;
+        position: absolute;
         left: 600px;
         top:-300px;
        }
