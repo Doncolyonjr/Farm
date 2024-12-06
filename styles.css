@@ -171,5 +171,7 @@ width:100px;
        display: grid;
        grid-template-rows: 1fr 1fr;
        }
-
+header nav{
+    display: flex;
+}
            }
