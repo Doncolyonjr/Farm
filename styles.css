@@ -136,7 +136,7 @@ width:100px;
     }
 }
 @media screen and (min-width:1280px){
-#fruit-2, #vegetables-2{
+#fruits-2, #vegetables-2{
     display: grid;
         grid-template-columns: 1fr 1fr 1fr ;
         column-gap: 20px;}
