@@ -61,10 +61,17 @@ nav{
 
 }
 ul{
-
+list-style: none;
 }
 nav a{
-
+background-color: #E75D02;
+width: 200px;
+border-radius: 5px;
+padding: 10px;
+text-decoration: none;
+font-family: 'Habibi';
+font-size: 1.15em;
+text-align: center;
 }
 h1,h2,h3{
 
