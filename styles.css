@@ -127,29 +127,27 @@ figcaption{
     padding:10px;
 width:100px;
 }
-@media screen and (min-width:1440px){
-    #fruit-2, #vegetables-2{
+@media screen and (min-width:428px){
+    #fruits-2, #vegetables-2{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        column-gap: 20px;
-    
-    }
-}
-@media screen and (min-width:1280px){
-#fruits-2, #vegetables-2{
-    display: grid;
-        grid-template-columns: 1fr 1fr 1fr ;
-        column-gap: 20px;}
-}
+            grid-template-columns: 1fr;
+            column-gap: 20px;}
+    }  
 @media screen and (min-width:834px){
     #fruits-2, #vegetables-2{
         display: grid;
             grid-template-columns: 1fr 1fr;
             column-gap: 20px;}
 }
-@media screen and (min-width:428px){
+@media screen and (min-width:1280px){
     #fruits-2, #vegetables-2{
         display: grid;
-            grid-template-columns: 1fr;
+            grid-template-columns: 1fr 1fr 1fr ;
             column-gap: 20px;}
 }
+@media screen and (min-width:1440px){
+    #fruit-2, #vegetables-2{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        column-gap: 20px;}
+    }
