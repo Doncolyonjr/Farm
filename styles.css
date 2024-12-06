@@ -46,8 +46,8 @@ html{
 background-color: #fff;
 }
 body{
-
-
+min-width: 550;
+font-family: 'habibi';
 }
 header, footer{
 
@@ -65,13 +65,15 @@ list-style: none;
 }
 nav a{
 background-color: #E75D02;
-width: 200px;
 border-radius: 5px;
 padding: 10px;
 text-decoration: none;
 font-family: 'Habibi';
 font-size: 1.15em;
 text-align: center;
+color: black;
+border-color: #fff;
+border-width: 1px;
 }
 h1,h2,h3{
 
