@@ -7,7 +7,7 @@
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 /*-------------------- MEDIA QUERY (large) ------------------------------------*/
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
-
+;
 /* latin */
 @font-face {
     font-family: 'Habibi';
@@ -131,6 +131,13 @@ figcaption{
     #fruit-2, #vegetables-2{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        gap: 20px;
+        column-gap: 20px;
+        width:100px;
     }
+}
+@media screen and (min-width:1280px){
+#fruit-2, #vegetables-2{
+    display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        column-gap: 20px;}
 }
