@@ -169,7 +169,7 @@ width:100px;
        }
        header{
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
         column-gap: 30px;
        }
            }
