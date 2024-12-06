@@ -113,6 +113,7 @@ main{
 #fruits-2{
 display: grid;
 grid-template-areas: 
+"  j  "
 "a b c"
 "d e f"
 "g h i"
@@ -153,4 +154,7 @@ grid-template-areas:
 }
 #l{
     grid-area: l;
+}
+#y{
+    grid-area: y;
 }
