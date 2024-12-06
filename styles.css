@@ -148,6 +148,7 @@ width:100px;
                 grid-column: 1/-1;
                 text-align: center;
                }
+               
 }
 @media screen and (min-width:1280px){
     #fruits-2, #vegetables-2{
@@ -158,6 +159,13 @@ width:100px;
                 grid-column: 1/-1;
                 text-align: center;
                }
+               nav{
+                position: absolute;
+                left: 650px;
+                top:-40px;}
+                #contacts-and-hours{
+                    display: grid;
+                    grid-template-columns: 1fr 1fr 1fr 1fr;}
 }
 @media screen and (min-width:1440px){
     #fruits-2, #vegetables-2{
