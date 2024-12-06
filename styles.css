@@ -8,7 +8,7 @@
 /*-------------------- MEDIA QUERY (large) ------------------------------------*/
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
 
-/* latin-ext--------------- */
+/* latin */
 @font-face {
     font-family: 'Habibi';
     font-style: normal;
@@ -110,5 +110,6 @@ h3{
 }
 footer{
     background-color: #fff;
+    text-align: center;
 }
 
