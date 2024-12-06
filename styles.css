@@ -167,4 +167,9 @@ width:100px;
         grid-column: 1/-1;
         text-align: center;
        }
+       header{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: ;
+       }
     }
