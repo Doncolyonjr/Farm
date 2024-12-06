@@ -173,9 +173,4 @@ width:100px;
 
        }
        header{
-        display: flex;
-	gap: 1rem;
-	justify-content: center;
-	align-items: center;
-       }
            }
