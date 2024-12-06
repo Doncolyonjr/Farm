@@ -120,4 +120,7 @@ figure img{
 figcaption{
     position: relative;
     top: -150px;
+    background-color: black;
+    font-size: 1.15em;
+    font-family: 'habibi';
 }
