@@ -170,6 +170,7 @@ width:100px;
        header{
         display: flex;
         flex-wrap: wrap;
+        -ms-flex-align: center;
        }
 
            }
