@@ -172,4 +172,8 @@ width:100px;
         flex-direction: row;
         flex-wrap: ;
        }
+       h1>p{
+        display: flex;
+        flex-direction: column;
+       }
     }
