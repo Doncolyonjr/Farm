@@ -172,4 +172,10 @@ width:100px;
         grid-template-columns: 1fr 1fr 1fr 1fr;
 
        }
+       header{
+        display: flex;
+	gap: 1rem;
+	justify-content: center;
+	align-items: center;
+       }
            }
