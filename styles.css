@@ -73,7 +73,8 @@ font-size: 1.15em;
 text-align: center;
 color: black;
 border-color: #fff;
-border: 1px;
+border-width: 1px;
+padding: 10px;
 }
 h1,h2,h3{
 
