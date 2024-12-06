@@ -167,11 +167,9 @@ width:100px;
         grid-column: 1/-1;
         text-align: center;
        }
-       header{
-       display: grid;
-       grid-template-rows: 1fr 1fr;
-       }
-       nav{
-        left: 300px;
+       #contacts-and-hours{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+
        }
            }
