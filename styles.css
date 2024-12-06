@@ -168,8 +168,8 @@ width:100px;
         text-align: center;
        }
        header{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        column-gap: 30px;
+        display: flex;
+        flex-wrap: wrap;
        }
+
            }
