@@ -104,7 +104,8 @@ h3{
     background-color:#06A816;
     color: #fff;
     font-family: 'habibi';
-    display: grid: 1fr 1fr 1fr 1fr;
+    display: grid;
+    grid-column: 1fr 1fr 1fr 1fr;
 }
 footer{
     background-color: #fff;
