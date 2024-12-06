@@ -111,11 +111,14 @@ footer{
     background-color: #fff;
     text-align: center;
 }
+figure{
+    text-align: center;
+}
 figure img{
     z-index: -1;
 }
 figcaption{
     position: relative;
-    top:50%;
-    left:50%;
+    top:50px;
+    left:50px;
 }
