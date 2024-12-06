@@ -148,7 +148,10 @@ width:100px;
                 grid-column: 1/-1;
                 text-align: center;
                }
-               
+               nav{
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+               }
 }
 @media screen and (min-width:1280px){
     #fruits-2, #vegetables-2{
