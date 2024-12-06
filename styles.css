@@ -111,4 +111,10 @@ footer{
     background-color: #fff;
     text-align: center;
 }
-
+figure img{
+    z-index: -1;
+}
+figcaption{
+    float: center;
+    position: relative;
+}
