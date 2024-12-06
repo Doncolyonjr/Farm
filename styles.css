@@ -82,12 +82,12 @@ nav li{
 nav h2{
     visibility: hidden;
 }
-[href="topbutton"]{
+[href="#top"]{
     position: fixed;
     bottom:0px;
     right:0px;
     width: 50px;
-    
+
 }
 h1,h2,h3{
 font-family: 'Irish Grover';
