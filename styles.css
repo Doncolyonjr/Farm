@@ -149,7 +149,8 @@ width:100px;
     #fruits-2, #vegetables-2{
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-column-start: 2;
         column-gap: 20px;}
-        
+       h3{
+        grid-column: 1/-1;
+       }
     }
