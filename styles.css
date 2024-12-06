@@ -141,3 +141,15 @@ width:100px;
         grid-template-columns: 1fr 1fr 1fr ;
         column-gap: 20px;}
 }
+@media screen and (min-width:834px){
+    #fruits-2, #vegetables-2{
+        display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 20px;}
+}
+@media screen and (min-width:428px){
+    #fruits-2, #vegetables-2{
+        display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 20px;}
+}
