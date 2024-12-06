@@ -168,9 +168,7 @@ width:100px;
         text-align: center;
        }
        header{
-        display: flex;
-        flex-wrap: wrap;
-        -ms-flex-align: center;
+       
        }
 
            }
