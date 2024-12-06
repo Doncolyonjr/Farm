@@ -173,5 +173,6 @@ width:100px;
        }
 header nav{
     display: flex;
+    flex-direction: column;
 }
            }
