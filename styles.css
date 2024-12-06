@@ -100,7 +100,12 @@ h2{
 h3{
     font-size: 1.25em;
 }
-main{
-
+#contacts-and-hours{
+    background-color:#06A816;
+    color: #fff;
+    font-family: 'habibi';
+}
+footer{
+    background-color: #fff;
 }
 
