@@ -150,6 +150,6 @@ width:100px;
 @media screen and (min-width:428px){
     #fruits-2, #vegetables-2{
         display: grid;
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: 1fr;
             column-gap: 20px;}
 }
