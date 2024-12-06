@@ -74,10 +74,13 @@ text-align: center;
 color: black;
 border-color: #fff;
 border-width: 1px;
-width: 100px;
+width: 300px;
 }
 nav li{
     display: inline-flex;
+}
+nav h2{
+    visibility: hidden;
 }
 h1,h2,h3{
 
